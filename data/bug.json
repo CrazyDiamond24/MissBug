@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Bug By Admin",
+    "description": "We are all going to die",
+    "severity": "3",
+    "creator": {
+      "nickname": "admin",
+      "_id": "9PuqWw"
+    },
+    "labels": ["hard", "dev-branch"],
+    "_id": "5V3RvB",
+    "createdAt": 1588766348492
+  },
+  {
+    "title": "Bug when opening window",
+    "description": "Everything lags and stops working",
+    "severity": "3",
+    "creator": {
+      "nickname": "Jack",
+      "_id": "g5r5sZ"
+    },
+    "labels": ["hard", "need-CR"],
+    "_id": "qTbRjA",
+    "createdAt": 1588831534568
+  },
+  {
+    "title": "Can't render component",
+    "description": "Component not found at all where is it?",
+    "severity": "2",
+    "creator": {
+      "nickname": "Jack",
+      "_id": "g5r5sZ"
+    },
+    "labels": ["easy", "need-CR", "dev-branch"],
+    "_id": "BrsySp",
+    "createdAt": 1588766591450
+  },
+  {
+    "_id": "XM0M03",
+    "title": "Security issue",
+    "description": "We are under attack by anonymous",
+    "severity": "3",
+    "createdAt": 1588765183361,
+    "creator": {
+      "nickname": "Daniel",
+      "_id": "WsSNlR"
+    },
+    "labels": ["hard"]
+  },
+  {
+    "title": "Test Test",
+    "description": "Some problem with something big",
+    "severity": 2,
+    "creator": {
+      "nickname": "unicorn",
+      "_id": "3Pufrr"
+    },
+    "labels": ["need-CR", "dev-branch"],
+    "_id": "JHG4fL",
+    "createdAt": 1588847496639
+  },
+  {
+    "_id": "s7Lv1",
+    "title": "bugsus",
+    "severity": 1,
+    "description": "omgg",
+    "createdAt": 1678300802486,
+    "creator": {
+      "nickname": "rania",
+      "_id": "5ZAYc"
+    },
+    "labels": ["easy", "need-CR", "dev-branch"]
+  }
+]

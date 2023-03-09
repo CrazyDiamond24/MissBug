@@ -1,0 +1,37 @@
+[
+  {
+    "username": "daniel",
+    "fullname": "Daniel Kim",
+    "password": "testtest",
+    "_id": "WsSNlR",
+    "isAdmin": false
+  },
+  {
+    "username": "admin",
+    "password": "admin",
+    "fullname": "Administrator",
+    "_id": "9PuqWw",
+    "isAdmin": true
+  },
+  {
+    "username": "jack",
+    "password": "123456",
+    "fullname": "Jack Sparrow",
+    "_id": "g5r5sZ",
+    "isAdmin": false
+  },
+  {
+    "_id": "5ZAYc",
+    "username": "ran",
+    "fullname": "Rania",
+    "password": "123",
+    "isAdmin": false
+  },
+  {
+    "_id": "3Pufrr",
+    "username": "unicorn",
+    "fullname": "Luulu",
+    "password": "1234",
+    "isAdmin": false
+  }
+]
